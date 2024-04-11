@@ -1,1 +1,22 @@
-# NM-Car-rental-application-with-Django-Framework-Abisha-S-4006-ACEW-
+# NM_FRIDAYBATCH_FSWD_PROJECT
+
+
+Project implemented by: 
+
+
+Name:
+
+
+ID:
+
+
+College name:
+
+
+Login credentials: 
+
+username: root
+
+
+Password: root
+
